@@ -1,0 +1,12 @@
+INDEX VERSION 1.134+C:\Users\Usuario\Documents\letterchallenge2\.metadata\.plugins\org.eclipse.jdt.core
+152084082.index
+3161361484.index
+1024247480.index
+2991874221.index
+458910656.index
+2487749779.index
+2166570863.index
+4147556646.index
+3286493458.index
+1329000145.index
+1865797976.index

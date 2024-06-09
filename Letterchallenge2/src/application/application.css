@@ -1,0 +1,15 @@
+	/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+	
+	/* Estilizar los botones */
+	.button {
+	    -fx-background-color: #4CAF50; /* Verde */
+	    -fx-text-fill: white; /* Texto blanco */
+	    -fx-font-size: 14px;
+	}
+	
+	/* Estilizar el texto */
+	.text {
+	    -fx-font-size: 16px;
+	    -fx-font-family: "Arial";
+	    -fx-fill: #333; /* Color del texto */
+	}
